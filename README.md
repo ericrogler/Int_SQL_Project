@@ -22,12 +22,6 @@ Query: [1_customer_segmentation.sql](/Scripts/1_customer_segmentation.sql)
 
 ![Customer Cohorts vs Average LTV](https://i.ibb.co/9mKtpzJ3/output-4.png)
 
-https://ibb.co/0yVb4qvJ
-https://ibb.co/Mxck5j6N
-https://ibb.co/nsJwnWm2
-https://ibb.co/dsCgf1SJ
-https://ibb.co/DyXvv4H
-
 **Key Findings**
 Cohorts were divided based on 25th and 75th percentiles.
 
