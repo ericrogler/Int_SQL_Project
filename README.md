@@ -18,13 +18,9 @@
 
 Query: [1_customer_segmentation.sql](/Scripts/1_customer_segmentation.sql)
 
-```sql
-{sql code to be entered here}
-```
-
 **Visualizations**
 
-![Alt_Text](image_name.png)
+![Customer Cohorts vs Average LTV](https://files.oaiusercontent.com/file-9o92hrXpnYPAn8ch3y8aTu?se=2025-04-19T03%3A54%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0c44492f-5e65-4c64-861f-75c409464d4d&sig=XA2oWlAQBSJY3wADnLp8LEtBwpwbvXT5f8eizLKaHgI%3D)
 
 **Key Findings**
 Cohorts were divided based on 25th and 75th percentiles.
@@ -46,13 +42,11 @@ Cohorts were divided based on 25th and 75th percentiles.
 
 Query: [2_cohort_analysis.sql](/Scripts/2_cohort_analysis.sql)
 
-```sql
-{sql code to be entered here}
-```
-
 **Visualizations**
 
-![Alt_Text](image_name.png)
+![Customer Revenue by Cohort Year](https://files09.oaiusercontent.com/file-E2wZg7k77gJEy5M4V4afii?se=2025-04-19T03%3A47%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D33b157d0-ec29-4166-ba75-9d4a7ace987f&sig=uymrGzji9XiuoxuYirf3DOgaTtzYbTsWGjNd1tFTXZM%3D)
+
+![Total Revenue by Cohort Year](https://files.oaiusercontent.com/file-6NF5NbtkxKrwagYqEqhzhd?se=2025-04-19T03%3A48%3A32Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D19faae12-052d-473f-a4b2-c4028d97685b&sig=9%2BtzH5aRcwBWQ4ofO/KWMCUqEk8UwlyztTO13w94kOk%3D)
 
 **Key Findings**
 - Revenue per customer shows significant decreasing trend over time.
@@ -75,7 +69,7 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 
 **Visualizations**
 
-![image_name](image_name.png)
+![Churn Rate by Cohort Year](https://files09.oaiusercontent.com/file-3gupL1LvaP9X9VY11FLFTg?se=2025-04-19T03%3A58%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De5324bf3-a17b-4733-a7ea-f28434c1b48a&sig=gOR2YX1Yxfvqvg8s9GHViVtl3HjEP6yDC3sVwlDYjWU%3D)
 
 **Key Findings**
 
