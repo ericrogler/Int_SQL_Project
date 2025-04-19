@@ -20,7 +20,13 @@ Query: [1_customer_segmentation.sql](/Scripts/1_customer_segmentation.sql)
 
 **Visualizations**
 
-![Customer Cohorts vs Average LTV](https://files.oaiusercontent.com/file-9o92hrXpnYPAn8ch3y8aTu?se=2025-04-19T03%3A54%3A54Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0c44492f-5e65-4c64-861f-75c409464d4d&sig=XA2oWlAQBSJY3wADnLp8LEtBwpwbvXT5f8eizLKaHgI%3D)
+![Customer Cohorts vs Average LTV](https://i.ibb.co/9mKtpzJ3/output-4.png)
+
+https://ibb.co/0yVb4qvJ
+https://ibb.co/Mxck5j6N
+https://ibb.co/nsJwnWm2
+https://ibb.co/dsCgf1SJ
+https://ibb.co/DyXvv4H
 
 **Key Findings**
 Cohorts were divided based on 25th and 75th percentiles.
@@ -44,9 +50,9 @@ Query: [2_cohort_analysis.sql](/Scripts/2_cohort_analysis.sql)
 
 **Visualizations**
 
-![Customer Revenue by Cohort Year](https://files09.oaiusercontent.com/file-E2wZg7k77gJEy5M4V4afii?se=2025-04-19T03%3A47%3A44Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D33b157d0-ec29-4166-ba75-9d4a7ace987f&sig=uymrGzji9XiuoxuYirf3DOgaTtzYbTsWGjNd1tFTXZM%3D)
+![Customer Revenue by Cohort Year](https://i.ibb.co/WWJHPT59/output-3.png)
 
-![Total Revenue by Cohort Year](https://files.oaiusercontent.com/file-6NF5NbtkxKrwagYqEqhzhd?se=2025-04-19T03%3A48%3A32Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D19faae12-052d-473f-a4b2-c4028d97685b&sig=9%2BtzH5aRcwBWQ4ofO/KWMCUqEk8UwlyztTO13w94kOk%3D)
+![Total Revenue by Cohort Year](https://i.ibb.co/dwP4J3gK/output-2.png)
 
 **Key Findings**
 - Revenue per customer shows significant decreasing trend over time.
@@ -69,7 +75,7 @@ Query: [3_retention_analysis.sql](/Scripts/3_retention_analysis.sql)
 
 **Visualizations**
 
-![Churn Rate by Cohort Year](https://files09.oaiusercontent.com/file-3gupL1LvaP9X9VY11FLFTg?se=2025-04-19T03%3A58%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3De5324bf3-a17b-4733-a7ea-f28434c1b48a&sig=gOR2YX1Yxfvqvg8s9GHViVtl3HjEP6yDC3sVwlDYjWU%3D)
+![Churn Rate by Cohort Year](https://i.ibb.co/WNb23bqg/output-5.png)
 
 **Key Findings**
 
